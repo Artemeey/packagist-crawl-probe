@@ -1,0 +1,7 @@
+{
+  "name": "artemeey/packagist-crawl-probe",
+  "description": "Temporary probe package",
+  "type": "library",
+  "license": "MIT",
+  "require": { "php": ">=7.4" }
+}
